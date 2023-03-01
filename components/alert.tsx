@@ -29,7 +29,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              You can find the code of my page on 
+              You can find the code of my page on
               <a
                 href={`https://github.com/LauraTalicia/portfolio`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
