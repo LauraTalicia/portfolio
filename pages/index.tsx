@@ -1,20 +1,39 @@
 import Container from "../components/container";
-import MoreStories from "../components/more-stories";
 import HeroPost from "../components/hero-post";
 import Intro from "../components/intro";
 import Layout from "../components/layout";
 import { getAllPosts } from "../lib/api";
 import Head from "next/head";
-import { CMS_NAME } from "../lib/constants";
 import Post from "../interfaces/post";
+import firebase from "firebase/compat/app";
+import { useEffect, useState } from "react";
+import {  onAuthStateChanged, User } from "firebase/auth";
+import { auth } from "../firebase";
+import { getDisplayName } from "next/dist/shared/lib/utils";
 
 type Props = {
   allPosts: Post[];
 };
 
-export default function Index({ allPosts }: Props) {
+const Index = ({ allPosts }: Props) => {
   const heroPost = allPosts[0];
   const morePosts = allPosts.slice(1);
+
+  const [curr, setCurr] = useState<User>();
+
+  onAuthStateChanged(auth, (user) => {
+    if (user) {
+      // User is signed in, see docs for a list of available properties
+      // https://firebase.google.com/docs/reference/js/firebase.User
+      const uid = user.uid;
+      setCurr(user);
+      // ...
+    } else {
+      // User is signed out
+      // ...
+    }
+  });
+console.log(curr)
   return (
     <>
       <Layout>
@@ -23,6 +42,7 @@ export default function Index({ allPosts }: Props) {
         </Head>
         <Container>
           <Intro title="Laura Talicia" />
+          {/* <h2>{curr && curr.displayName}</h2> */}
           {heroPost && (
             <HeroPost
               title={heroPost.title}
@@ -38,7 +58,7 @@ export default function Index({ allPosts }: Props) {
       </Layout>
     </>
   );
-}
+};
 
 export const getStaticProps = async () => {
   const allPosts = getAllPosts([
@@ -54,3 +74,5 @@ export const getStaticProps = async () => {
     props: { allPosts },
   };
 };
+
+export default Index;
