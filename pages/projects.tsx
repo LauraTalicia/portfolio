@@ -79,6 +79,7 @@ const projects = [
 export default function Index({ allPosts }: Props) {
   const heroPost = allPosts[0];
   const morePosts = allPosts.slice(1);
+
   return (
     <>
       <Layout>
@@ -96,12 +97,12 @@ export default function Index({ allPosts }: Props) {
               );
             })} */}
 
-            {projects.map(({ imageUrl, title, description }) => {
+            {morePosts.map(({ title, excerpt, coverImage }) => {
               return (
                 <Card
-                  imageUrl={imageUrl}
+                  imageUrl={coverImage}
                   title={title}
-                  description={description}
+                  description={excerpt}
                 />
               );
             })}
