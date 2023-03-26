@@ -1,6 +1,7 @@
+import Link from "next/link";
 import React from "react";
 
-export const Card = ({ imageUrl, title, description }) => {
+export const Card = ({ imageUrl, title, description, slug }) => {
   const [isHovered, setIsHovered] = React.useState(false);
 
   return (
@@ -11,8 +12,15 @@ export const Card = ({ imageUrl, title, description }) => {
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
-      <img src={imageUrl} alt={title} className="w-full rounded-md" />
-      <h2 className="text-lg font-bold mt-4">{title}</h2>
+      <Link
+        as={`/posts/${slug}`}
+        href="/posts/[slug]"
+        className="hover:underline"
+      >
+        <img src={imageUrl} alt={title} className="w-full rounded-md" />
+        <h2 className="text-lg font-bold mt-4">{title}</h2>
+      </Link>
+
       <p className="text-gray-600">{description}</p>
     </div>
   );

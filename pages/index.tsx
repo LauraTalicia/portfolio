@@ -42,7 +42,7 @@ const Index = ({ allPosts }: Props) => {
           <title>{`Laura Talicia`}</title>
         </Head>
         <Container>
-          <Intro title="Laura Talicia" />
+          <Intro title="Laura Talicia" active={1} />
           {/* <h2>{curr && curr.displayName}</h2> */}
           {heroPost && (
             <HeroPost

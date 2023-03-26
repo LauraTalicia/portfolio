@@ -8,6 +8,7 @@ import Head from "next/head";
 import { CMS_NAME } from "../lib/constants";
 import Post from "../interfaces/post";
 import { Card } from "../components/card";
+import Link from "next/link";
 
 type Props = {
   allPosts: Post[];
@@ -87,7 +88,7 @@ export default function Index({ allPosts }: Props) {
           <title>My Projects</title>
         </Head>
         <Container>
-          <Intro title="My Projects" />
+          <Intro title="My Projects" active={2} />
           <div className="flex flex-wrap justify-center">
             {/* {projects.map((project) => {
               return (
@@ -97,12 +98,13 @@ export default function Index({ allPosts }: Props) {
               );
             })} */}
 
-            {morePosts.map(({ title, excerpt, coverImage }) => {
+            {morePosts.map(({ title, excerpt, coverImage, slug }) => {
               return (
                 <Card
                   imageUrl={coverImage}
                   title={title}
                   description={excerpt}
+                  slug={slug}
                 />
               );
             })}
