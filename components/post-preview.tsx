@@ -11,6 +11,7 @@ type Props = {
   excerpt: string;
   author: Author;
   slug: string;
+  className?: string;
 };
 
 const PostPreview = ({
@@ -20,9 +21,10 @@ const PostPreview = ({
   excerpt,
   author,
   slug,
+  className,
 }: Props) => {
   return (
-    <div>
+    <div className={className}>
       <div className="mb-5">
         <CoverImage slug={slug} title={title} src={coverImage} />
       </div>
