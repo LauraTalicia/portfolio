@@ -7,9 +7,10 @@ import Head from "next/head";
 import Post from "../interfaces/post";
 import firebase from "firebase/compat/app";
 import { useEffect, useState } from "react";
-import {  onAuthStateChanged, User } from "firebase/auth";
+import { onAuthStateChanged, User } from "firebase/auth";
 import { auth } from "../firebase";
 import { getDisplayName } from "next/dist/shared/lib/utils";
+import MoreStories from "../components/more-stories";
 
 type Props = {
   allPosts: Post[];
@@ -33,7 +34,7 @@ const Index = ({ allPosts }: Props) => {
       // ...
     }
   });
-console.log(curr)
+  console.log(curr);
   return (
     <>
       <Layout>
@@ -53,7 +54,7 @@ console.log(curr)
               excerpt={heroPost.excerpt}
             />
           )}
-          {/* {morePosts.length > 0 && <MoreStories posts={morePosts} />} */}
+          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </Container>
       </Layout>
     </>

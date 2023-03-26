@@ -7,11 +7,75 @@ import { getAllPosts } from "../lib/api";
 import Head from "next/head";
 import { CMS_NAME } from "../lib/constants";
 import Post from "../interfaces/post";
+import { Card } from "../components/card";
 
 type Props = {
   allPosts: Post[];
 };
-const projects = ["rabyl", "skaj", "zuma", "czejs", "marszal", "roki"];
+const projects = [
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+  {
+    imageUrl:
+      "https://cdn.midjourney.com/b75d09fd-cb82-4d3d-af22-24b19dc09d16/0_2.png",
+    title: "title1",
+    description: "description1",
+  },
+];
+
+// "rabyl", "skaj", "zuma", "czejs", "marszal", "roki"];
 export default function Index({ allPosts }: Props) {
   const heroPost = allPosts[0];
   const morePosts = allPosts.slice(1);
@@ -24,11 +88,21 @@ export default function Index({ allPosts }: Props) {
         <Container>
           <Intro title="My Projects" />
           <div className="flex flex-wrap justify-center">
-            {projects.map((project) => {
+            {/* {projects.map((project) => {
               return (
                 <div className="bg-yellow-300 w-1/4 aspect-square flex flex-col items-center justify-center m-4">
                   {project}
                 </div>
+              );
+            })} */}
+
+            {projects.map(({ imageUrl, title, description }) => {
+              return (
+                <Card
+                  imageUrl={imageUrl}
+                  title={title}
+                  description={description}
+                />
               );
             })}
           </div>
