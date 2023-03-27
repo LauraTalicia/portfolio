@@ -1,6 +1,6 @@
 ---
 title: "Igloo"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "To był piękny zimowy dzień na Mazurach. Świeżo napadł śnieg, a ja nabrałam chęci na zbudowanie czegoś dużego. Po krótkim namysle, postanowiłam zbudować igloo."
 coverImage: "/assets/blog/igloo/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
