@@ -1,5 +1,5 @@
 ---
-title: "Projekt miedziane felgi"
+title: "Wyprawy rowerowe"
 excerpt: "Zeszłego lata, razem z moja mamą, wybrałam się na wyprawę rowerową. Przejechałam w sumie ponad 1000 km. Spałyśmy w namiocie, gotowałyśmy na kuchence gazowej i kąpalysmy się w jeziorach."
 coverImage: "/assets/blog/rower/cover.png"
 date: "2020-03-16T05:35:07.322Z"

@@ -5,11 +5,9 @@ import Layout from "../components/layout";
 import { getAllPosts } from "../lib/api";
 import Head from "next/head";
 import Post from "../interfaces/post";
-import firebase from "firebase/compat/app";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { onAuthStateChanged, User } from "firebase/auth";
 import { auth } from "../firebase";
-import { getDisplayName } from "next/dist/shared/lib/utils";
 import MoreStories from "../components/more-stories";
 
 type Props = {
@@ -43,7 +41,6 @@ const Index = ({ allPosts }: Props) => {
         </Head>
         <Container>
           <Intro title="Laura Talicia" active={1} />
-          {/* <h2>{curr && curr.displayName}</h2> */}
           {heroPost && (
             <HeroPost
               title={heroPost.title}

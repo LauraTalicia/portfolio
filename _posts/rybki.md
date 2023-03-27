@@ -1,5 +1,5 @@
 ---
-title: "Projekt miedziane felgi"
+title: "Rybki ><>  <><"
 excerpt: "Razem z tatą hodujemy rybki w naszym domu. Mamy duże akwarium, w którym trzymamy różne gatunki ryb, takie jak neontetra, krewetki czy zbrojniki (nie glonojady!!!). "
 coverImage: "/assets/blog/rybki/cover.png"
 date: "2020-03-16T05:35:07.322Z"

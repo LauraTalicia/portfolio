@@ -16,7 +16,7 @@ const Footer = () => {
             >
               Read Documentation
             </a> */}
-            <h3>
+            {/* <h3>
               {" "}
               <a
                 href={`https://github.com/LauraTalicia/`}
@@ -30,7 +30,7 @@ const Footer = () => {
                   />
                 </div>
               </a>
-            </h3>
+            </h3> */}
           </div>
         </div>
       </Container>
