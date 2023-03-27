@@ -18,6 +18,8 @@ const Index = ({ allPosts }: Props) => {
   const heroPost = allPosts[0];
   const morePosts = allPosts.slice(1);
 
+  morePosts.sort((a, b) => (a.title > b.title ? 1 : -1));
+
   const [curr, setCurr] = useState<User>();
 
   onAuthStateChanged(auth, (user) => {
