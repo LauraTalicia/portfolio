@@ -1,13 +1,13 @@
 ---
 title: "Projekt miedziane felgi"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/kolpaki/cover.png"
+excerpt: "Razem z tatą hodujemy rybki w naszym domu. Mamy duże akwarium, w którym trzymamy różne gatunki ryb, takie jak neontetra, krewetki czy zbrojniki (nie glonojady!!!). "
+coverImage: "/assets/blog/rybki/cover.png"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/kolpaki/cover.png"
+  url: "/assets/blog/rybki/cover.png"
 ---
 
 Chciałabym opowiedzieć Wam o moim pasjonującym projekcie, w którym wzięłam udział - malowaniu kołpaków farbą w sprayu do samochodu mojego taty.

@@ -1,13 +1,13 @@
 ---
-title: "Projekt miedziane felgi"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/kolpaki/cover.png"
+title: "Rysowanie <3"
+excerpt: "Rysowanie to jak dla mnie magiczna forma sztuki. Tak jak pisarz tworzący swoją opowieść, ja kreuję swój świat przy pomocy farb, ołówków i papieru. Kiedy rysuję, czuję, że jestem wolna od ograniczeń rzeczywistości i mogę stworzyć wszystko, o czym zamarzę."
+coverImage: "/assets/blog/rysunki/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/kolpaki/cover.png"
+  url: "/assets/blog/rysunki/cover.jpg"
 ---
 
 Chciałabym opowiedzieć Wam o moim pasjonującym projekcie, w którym wzięłam udział - malowaniu kołpaków farbą w sprayu do samochodu mojego taty.
