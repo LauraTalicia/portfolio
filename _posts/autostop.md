@@ -12,7 +12,7 @@ ogImage:
 
 ## Początki
 
-Od piątego roku życia, kiedy to razem z mamą wyjechałam z Polski, podróżowanie jest moją pasją. Podróżowanie zaczynałyśmy od odkrywania Europy. Przemierzałyśmy ją autostopem, spałyśmy w namiocie albo na couchsurfingu i byłyśmy zawsze otwarte na nowe przygody!
+Od piątego roku życia podróżowanie jest moją pasją. Gdy miałam 5 i pół roku, wyruszyłyśmy z mamą w nasza pierwszą wspólną podróż po Europie. Przemierzałyśmy ją autostopem, spałyśmy w namiocie na plażach i w lasach, albo u ludzi, którzy zaprosili nas do siebie - na couchsurfingu i byłyśmy zawsze otwarte na nową przygodę!
 
 ![](https://i.ibb.co/82gvVNW/10849739-10154934584980187-9059672037344221829-n.jpg)
 
