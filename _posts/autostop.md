@@ -12,24 +12,35 @@ ogImage:
 
 ## Początki
 
-Od piątego roku życia, kiedy to razem z mamą wyjechałam z Polski, podróżowanie stało się moją pasją. Zaczynałyśmy od Europy, którą przemierzałyśmy autostopem. Byłyśmy zawsze otwarte na nowe przygody i chętnie dzieliłyśmy się z innymi naszymi doświadczeniami.
+Od piątego roku życia, kiedy to razem z mamą wyjechałam z Polski, podróżowanie jest moją pasją. Podróżowanie zaczynałyśmy od odkrywania Europy. Przemierzałyśmy ją autostopem, spałyśmy w namiocie albo na couchsurfingu i byłyśmy zawsze otwarte na nowe przygody!
 
 ![](https://i.ibb.co/82gvVNW/10849739-10154934584980187-9059672037344221829-n.jpg)
 
 ## Noclegi i spotkania
 
-Podczas naszych podróży po Europie spotykaliśmy wiele cudownych ludzi, którzy z wielką życzliwością podwozili nas swoimi samochodami. Wielu z nich chciało się dowiedzieć o naszej historii i słuchało z zainteresowaniem o naszych doświadczeniach. Często nocowaliśmy u naszych nowych przyjaciół, którzy oferowali nam swoje domy, a czasem wędrowaliśmy z naszymi plecakami i nocowaliśmy na couchsurfingu albo w namiocie.
+Podczas naszych podróży po Europie spotykałyśmy wielu cudownych ludzi, którzy z wielką życzliwością podwozili nas swoimi samochodami. Wielu z nich chciało się dowiedzieć o naszej historii i słuchało z zainteresowaniem o naszych doświadczeniach. Często nocowałyśmy u naszych nowych przyjaciół, którzy oferowali nam gościnę w swoich domach. Z niektórymi z nich przyjaźnimy się do dziś :)
+To niezwykłe zobaczyć jak dobrzy i pomocni sa ludzie wobec kogoś, kogo w ogóle nie znają i widzą go tylko przez kilka godzin.
 
 ## Wyprawa do Stambułu
 
-Największą przygodą, jaką przeżyłam z moją mamą, było przemierzenie drogi z Berlina do Stambułu. To było kilka tysięcy kilometrów, które pokonałyśmy autostopem. Zobaczyłyśmy wspaniałe miasta i wioski, odwiedziłyśmy słynne zabytki, a także przejechałyśmy przez piękne krajobrazy. Czuliśmy się, jakbyśmy były bohaterkami książki o podróżach.
+Największą przygodą, jaką przeżyłam z moją mamą, było przemierzenie drogi z Berlina do Stambułu. To kilka tysięcy kilometrów, które pokonałyśmy autostopem. Zajęło nam to około 2 miesięcy. Zatrzymywałyśmy się po drodze w miejscach, które szczególnie nas zainteresowały i które chciałyśmy poznać bliżej. Czasem też potrzebowałyśmy po prostu odpoczynku, czy schornienia przed kilkudniowymi jesiennymi ulewami.
+Byłam wtedy dosyć mała, więc nie pamiętam wszystkiego, ale kilka obrazów utkwiło mi w pamięci. Pamiętam poranki w namiocie na plaży, oglądanie kolorowych ryb w morzu. Pamiętam, że raz w domu, w którym nocowałam znalazłam malutką jaszczurkę. Jaszczurka ta weszła na moją rękę i chwilę po niej chodziła. W ogóle się mnie nie bała..
 
 ![](https://i.ibb.co/wYK0Xmp/10686626-333597630147772-6960214560755164048-n.jpg)
 
 ## Skandynawia i Legoland
 
-Kolejnym celem naszych podróży była Skandynawia. Tam zobaczyłam niesamowite krajobrazy, piękne jeziora, góry i fiordy. Ludzie tam mieszkający byli bardzo przyjaźni i pomocni. Ale największą atrakcją dla mnie był Legoland w Danii. Tam spędziłam kilka dni, eksplorując ogromne miasta i zamki zbudowane z klocków Lego. To był dla mnie naprawdę wspaniały czas.
+Kolejny region, który dobrze poznałyśmy to Skandynawia i Finlandia. To miejsce pełne niesamowitych miejsc pięknych jezior, gór i fiordów.
+Jeden tydzień spędziłyśmy na małej fińskiej wysepsce, gdzie oprócz nas nie mieszkał nikt. Rozbiłyśmy namiot na plaży a dnie spędzałyśmy na specerowaniu po wyspie. Było tam dużo miejsc do odkrywania. Szczególnie podobało mi się skaliste wybrzeże, na które lubiłam się wspinać. Rano i wieczorem obserwowałyś, wielkie promy wycieczkowe przepływające tuż przy wyspie i zmierzające do portu w Helsinkach.
+
+Innym razem wybrałyśmy się na sam koniec Lofotów, do miasta A (czyta się 'o'). Lofoty słyną z pięknych krajobrazów, wysokich gór tuż nad fjordami, dzikiej natury i ukrytych wśród skał plaż. Sama droga autobusem do naszego Hostelu zapierała dech w piersiach. Czułam się jakbym była na pocztówce. Tam też po prostu byłyśmy w naturze i podziwiałyśmy naturę. Jest to chyba taka magia Skandynawii, że człowieka jakoś mocniej ciagnie tam do natury. Szczególnie w pamięci utkwiła mi noc, gdy poszłyśmy obserować zorzę polarną. Wystarczyło wejść na pomost, gdzie nie sięgało światło latarni i była tam. Lekko zielona kreska na niebie. Nie była to widowiskowa fala jakie widać na zdjęciach w internecie. Nie był to dzień w kßóy zorza polarna była dobrze widoczna. Jednak nadal, było w niej coś majestatycznego i podniosłego. Stałyśmy tylko i patrzyłyśmy na nią w milczeniu, a dookoła nas szumiało morze a mrok ukrywał wysokie góry.
+
+Dużo miałyśmy przygód w Skandynawii. Spędziłyśmy tam w sumie kilka miesięcy, mieszkając w Danii, Szwecji, Finlandii i odwiedzając Norwegię. Najbardziej wspomina jednak nie naturę, a miejsca wydające się być jej przeciwieństwem - Legoland, Tivoli w Kopenhadze i wioskę Muminków w Naantali. Każde z nich ma w sobie coś niezwykłego, każde jest inne na swój sposób. Tivoli oszałamia dekoracjami dopasowanymi do pory roku i aktuanych świat, wioska Muminków trwa sobie w naturze i stara się sprawić, byśmy poczuli się jak w bajce, a Legoland to takie kultowe miejsce, pełne znajomych (przynajmniej dzieciom) kontrukcji.
+
+Legoland wspominam najprzyjemniej. To pierwszy cel naszej wizyty w Danii i miejsce do kjtórego potem kilkakrotnie wróciłysmy. Na poczatku było to spełnienie marzenia i oszołomienie atrakcjami, a potem wracanie w dobrze znane miejsce i odkrywanie nowości i tego, czego wcześniej nie zauwazyłyśmy. Zazwyczaj kupujemy bilet na 2 dni i od rana do wieczora szalejemy w parku. Jest tam co odkrywac i nigdy nie starzcza nam czasu na zrobienie wszytskiego, co zaplanowałyśmy. A atrakcje są tam bardzo różne. Jest dom strachów, gdzie można pobawić się w odsuwanie ksiązek i odkrywnaie tajnych przejść, jest pociąg Indiana jones, gdzie za pomocą specjalnych laserów zbiera się kryształy, są typowe roller-coastery, donoszące trochę poziom adrenaliny. Jest tez dużo spokojniejszych atrakcji, takich przeznaczonych głównie dla małych dzieci, na których jednak zawsze jest dużo śmiechu. Np: małe łódki, którymi podróżuje się wsród zbudowanych z klocków sławnych budowli na świecie. Jest tam krzywa wieża w Pizie, Taj Mahal, STatua Wolności, Biały Dom, świątynia Abu Simbel.
+
+![](https://estatravel.pl/uploads/i/img-39e94c22610414093a55f7a2aac1f98d.jpg)
+
+Oprócz budowli, które sa częścią konkretnych atrakcji, na terenie Legolandu znajduje się też całe wielkie miasteczko zbodowane z klocków LEGO, a raczej kilkadziesiąt różncy scen przedstawiających czasem miasta (Amsterdam, Wenecja), czasem cale tereny po których jeździ pociąg (Szwajacrskie czu Austriackie wgórza), czasem pojedyncze budowle (fabryka mleka, platforma wiertnicza)
 
 ![](https://i.ibb.co/PjYQdkP/mamai-Laura.jpg)
-
-Podsumowując, podróżowanie z mamą po Europie to była niesamowita przygoda. Zobaczyłam wiele wspaniałych miejsc i poznałam wspaniałych ludzi. Teraz, jako 14-latka, wiem, że te doświadczenia na zawsze pozostaną w mojej pamięci.
