@@ -7,6 +7,5 @@ author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.png"
+  url: "/assets/blog/about/cover.png"
 ---
-
