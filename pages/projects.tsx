@@ -17,10 +17,10 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>My Projects</title>
+          <title>Projekty</title>
         </Head>
         <Container>
-          <Intro title="My Projects" active={2} />
+          <Intro title="Projekty" active={2} />
           <div className="flex flex-wrap justify-center">
             {morePosts.map(({ title, excerpt, coverImage, slug }) => {
               return (
