@@ -12,13 +12,14 @@ ogImage:
 
 ## Początki
 
-Od piątego roku życia podróżowanie jest moją pasją. Gdy miałam 5 i pół roku, wyruszyłyśmy z mamą w nasza pierwszą wspólną podróż po Europie. Przemierzałyśmy ją autostopem, spałyśmy w namiocie na plażach i w lasach, albo u ludzi, którzy zaprosili nas do siebie - na couchsurfingu i byłyśmy zawsze otwarte na nową przygodę!
+Od piątego roku życia podróżowanie jest moją pasją. Gdy miałam 5 i pół roku, wyruszyłyśmy z mamą w nasza pierwszą wspólną podróż po Europie. Przemierzałyśmy ją autostopem, nocowałyśmy w namiocie (na plażach i w lasach) albo u ludzi, którzy zaprosili nas do siebie - na couchsurfingu. I zawsze byłyśmy otwarte na nową przygodę!
 
 ![](https://i.ibb.co/82gvVNW/10849739-10154934584980187-9059672037344221829-n.jpg)
 
 ## Noclegi i spotkania
 
-Podczas naszych podróży po Europie spotykałyśmy wielu cudownych ludzi, którzy z wielką życzliwością podwozili nas swoimi samochodami. Wielu z nich chciało się dowiedzieć o naszej historii i słuchało z zainteresowaniem o naszych doświadczeniach. Często nocowałyśmy u naszych nowych przyjaciół, którzy oferowali nam gościnę w swoich domach. Z niektórymi z nich przyjaźnimy się do dziś :)
+Podczas naszych podróży po Europie spotykałyśmy wielu cudownych ludzi, którzy z wielką życzliwością podwozili nas swoimi samochodami. Czasem było to kilka a czasem kilkaset kilometrów. Były to małe samochody osobowe, gdzie ledwo mieściłyśmy się my i plecaki, czasem były to luksusowe auta, piękne i szybkie, często wielkie ciężarówki, a raz pozwoził nas stary odnowiony autobus. Autobus był żólty i przytulnie udekorowany w środku. Niestety posiadał też wady. Jechał ślimaczym tempem.. Tak wolno, że wyprzedzało nas wszytsko, nawet samochody, które wiozły na sobie kawałki domu. Na miejsce docelowe dotarłyśmy późną nocą.
+Wiele z nowo poznanych osób chciało się dowiedzieć o naszej historii i słuchało z zainteresowaniem o naszych doświadczeniach a także dzielili się swoimi. Głównie po angielsku, ale i po polsku, w całej Europie można na prawdę często spotkać rodaków. Zdarzało się, że nocowałyśmy u naszych nowych przyjaciół, którzy to oferowali nam gościnę w swoich domach a niektórymi z nich przyjaźnimy się do dziś :)
 To niezwykłe zobaczyć jak dobrzy i pomocni sa ludzie wobec kogoś, kogo w ogóle nie znają i widzą go tylko przez kilka godzin.
 
 ## Wyprawa do Stambułu
