@@ -3,7 +3,7 @@ import { CMS_NAME } from "../lib/constants";
 
 const Intro = ({ title, active }: { title: string; active: number }) => {
   const links = [
-    ["Home", ""],
+    ["Strona główna", ""],
     ["Projekty", "projects"],
     ["O mnie", "about"],
   ];
